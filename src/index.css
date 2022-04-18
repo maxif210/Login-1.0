@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.font-family{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+}
+
+.card-img {
+    height: 200px;
+    max-height: 350px;
+    object-fit: cover;
+}
+
+.img-red {
+    color: red;
+}

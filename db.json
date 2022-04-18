@@ -1,0 +1,19 @@
+{
+  "accounts": [
+    {
+      "email": "eduardoviana83@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "email": "eduardoviana83@gmail.com",
+      "password": "111111",
+      "id": 2
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 3
+    }
+  ]
+}
